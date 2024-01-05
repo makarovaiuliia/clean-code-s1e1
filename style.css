@@ -41,16 +41,16 @@ body {
     display: flex;
 }
 
-ul {
+.list {
     margin:0;
     padding: 0px;
 }
 
-li, h3 {
+.list-item {
     list-style:none;
 }
 
-input,button{
+input,button {
     outline:none;
 }
 
